@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to EazyBank, Accounts related APIs in dev environment "
   contactDetails:
-    name: "John Doe - Developer"
+    name: "Developer Lead John Doe"
     email: "john@eazybank.com"
   onCallSupport:
     - (555) 555-1234
