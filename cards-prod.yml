@@ -3,7 +3,7 @@ build:
 cards:
   message: "Accounts related APIs in PROD environment"
   contactDetails:
-    name: "Prod Manager John Doe"
+    name: "Prod Manager Ibrahim"
     email: "john@eazybank.com"
   onCallSupport:
     - (555) 555-1238
