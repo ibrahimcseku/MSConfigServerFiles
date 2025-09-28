@@ -3,7 +3,7 @@ build:
 accounts:
   message: "Accounts related APIs in QA environment "
   contactDetails:
-    name: "QA Manager John Doe"
+    name: "QA Manager Shaikh"
     email: "{cipher}37e5f6cd1d9dc4e97ce7551de811a231ad99e6c162146324b91d36edccc13dc335e9e7b09d40f423c60f1f9ea22d14a9"
   onCallSupport:
     - (555) 555-1231
