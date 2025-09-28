@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to EazyBank, Accounts related APIs in QA environment "
+  message: "Accounts related APIs in QA environment "
   contactDetails:
     name: "QA Manager John Doe"
     email: "{cipher}37e5f6cd1d9dc4e97ce7551de811a231ad99e6c162146324b91d36edccc13dc335e9e7b09d40f423c60f1f9ea22d14a9"
