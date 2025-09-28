@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to EazyBank, Accounts related APIs in dev environment "
+  message: "Accounts related APIs in dev environment "
   contactDetails:
     name: "Developer Lead John Doe"
     email: "john@eazybank.com"
